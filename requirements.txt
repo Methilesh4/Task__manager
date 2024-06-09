@@ -1,3 +1,4 @@
+beautifulsoup4==4.12.3
 blinker==1.8.2
 CacheControl==0.14.0
 cachetools==5.3.3
@@ -7,6 +8,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 cryptography==42.0.8
+favicon==0.7.0
 firebase-admin==6.5.0
 Flask==3.0.3
 gcloud==0.18.3
@@ -44,8 +46,8 @@ requests==2.32.3
 requests-toolbelt==0.10.1
 rsa==4.9
 six==1.16.0
+soupsieve==2.5
 typing_extensions==4.12.2
 uritemplate==4.1.1
 urllib3==1.26.18
 Werkzeug==3.0.3
-favicon==0.7.0
